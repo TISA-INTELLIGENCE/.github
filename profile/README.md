@@ -21,7 +21,6 @@ This organization hosts open-source tools, resources, and the platform source co
 
 ## Links
 
-- Website: [tisaintelligence.lovable.app](https://tisaintelligence.lovable.app/)
 - LinkedIn: [linkedin.com/company/tisa-intelligence](https://www.linkedin.com/company/tisa-intelligence/)
 
 ---
