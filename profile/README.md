@@ -5,7 +5,7 @@
 
 > **Visibility Before Exploitation**
 
-Cyber exposure monitoring and open-source intelligence initiatives from Dar es Salaam, Tanzania.
+Cyber exposure monitoring and open-source intelligence initiatives.
 
 ## About
 
